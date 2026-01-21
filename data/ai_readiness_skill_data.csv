@@ -1,0 +1,9 @@
+candidate_id,role,primary_skills,ai_skills,experience_level,readiness_score,location
+C001, Data Analyst, "SQL, Excel, Power BI", "Prompt Engineering", Fresher,65, Bangalore
+C002, Data Analyst, "SQL, Python", "Machine Learning Basics", Fresher,70, Hyderabad
+C003, Business Analyst, "Excel, Power BI", "AI Tools Awareness", Fresher,60, Pune
+C004, Data Analyst, "SQL, Python, Power BI", "AI Concepts", Experienced,80, Bangalore
+C005, BI Analyst, "Power BI, SQL", "Prompt Engineering", Experienced,78, Hyderabad
+C006, Data Analyst, "Excel, SQL", "None", Fresher,50, Chennai
+C007, Data Analyst, "Python, SQL", "AI Fundamentals", Fresher,72, Remote
+C008, Business Analyst, "Excel, SQL", "None", Fresher,55, Bangalore
